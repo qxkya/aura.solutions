@@ -1,1 +1,0 @@
-game:GetService("Players").LocalPlayer:Kick("The free trial for Aura is now over! Join discord.gg/getaura to purchase the full version.")
