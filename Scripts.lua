@@ -4,7 +4,7 @@
             ["Script_Name"] = "Aura Paid",
             ["Place_Id"] = 11156779721,
             ["Status"] = "stable",
-            ["Script_Url"] = "https://kya.jvck.gg/aura"
+            ["Script_Url"] = "https://raw.githubusercontent.com/qxkya/aura.solutions/refs/heads/main/Aura_TheSurvivalGame.lua"
         }
     },
 
@@ -13,7 +13,7 @@
             ["Script_Name"] = "Aura Paid",
             ["Place_Id"] = 14202073004,
             ["Status"] = "stable",
-            ["Script_Url"] = "https://raw.githubusercontent.com/qxkya/aura.solutions/refs/heads/main/UnnamedShooter.lua"
+            ["Script_Url"] = "https://raw.githubusercontent.com/qxkya/aura.solutions/refs/heads/main/Aura_UnnamedShooter.lua"
         }
     }
 }
