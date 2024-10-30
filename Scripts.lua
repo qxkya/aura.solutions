@@ -1,4 +1,4 @@
-{
+return {
     ["The Survival Game"] = {
         {
             ["Script_Name"] = "Aura Paid",
