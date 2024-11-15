@@ -24,5 +24,14 @@ return {
             ["Status"] = "early release",
             ["Script_Url"] = "https://raw.githubusercontent.com/qxkya/aura.solutions/refs/heads/main/Aura_Fisch.lua"
         }
+    },
+
+    ["State of Anarchy"] = {
+        {
+            ["Script_Name"] = "Aura Paid",
+            ["Place_Id"] = 2000062521,
+            ["Status"] = "early release",
+            ["Script_Url"] = "https://raw.githubusercontent.com/qxkya/aura.solutions/refs/heads/main/Aura_StateOfAnarchy.lua"
+        }
     }
 }
