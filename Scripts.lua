@@ -17,10 +17,17 @@ return {
 
     ["Fisch"] = {
         {
-            ["Script_Name"] = "Aura Paid",
+            ["Script_Name"] = "[NEW] Aura Paid",
             ["Place_Id"] = 16732694052,
-            ["Status"] = "early release",
-            ["Script_Url"] = "https://raw.githubusercontent.com/qxkya/aura.solutions/refs/heads/main/Aura_Fisch.lua"
+            ["Status"] = "under development",
+            ["Script_Url"] = "https://raw.githubusercontent.com/qxkya/aura.solutions/refs/heads/main/New_Aura_Fisch.lua"
+        },
+        
+        {
+            ["Script_Name"] = "[OLD] Aura Paid",
+            ["Place_Id"] = 16732694052,
+            ["Status"] = "unstable",
+            ["Script_Url"] = "https://raw.githubusercontent.com/qxkya/aura.solutions/refs/heads/main/Old_Aura_Fisch.lua"
         }
     }
 }
