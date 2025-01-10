@@ -10,7 +10,7 @@ return {
         {
             ["Script_Name"] = "Ore Autofarm",
             ["Place_Id"] = 11156779721,
-            ["Status"] = "beta",
+            ["Status"] = "unstable",
             ["Script_Url"] = "https://raw.githubusercontent.com/qxkya/aura.solutions/refs/heads/main/OreFarm_TheSurvivalGame.lua"
         }
     },
