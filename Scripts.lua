@@ -21,6 +21,13 @@ return {
             ["Place_Id"] = 16732694052,
             ["Status"] = "beta",
             ["Script_Url"] = "https://raw.githubusercontent.com/qxkya/aura.solutions/refs/heads/main/Aura_Fisch.lua"
+        },
+
+        {
+            ["Script_Name"] = "Aura Paid Rewrite",
+            ["Place_Id"] = 16732694052,
+            ["Status"] = "not complete",
+            ["Script_Url"] = "https://raw.githubusercontent.com/qxkya/aura.solutions/refs/heads/main/Aura_Rewrite_Fisch.lua"
         }
     }
 }
