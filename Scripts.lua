@@ -4,7 +4,7 @@ return {
             ["Script_Name"] = "Aura Paid",
             ["Place_Id"] = 11156779721,
             ["Status"] = "stable",
-            ["Script_Url"] = "https://raw.githubusercontent.com/qxkya/aura.solutions/refs/heads/main/Games/The_Survival_Game/main.luau"
+            ["Script_Url"] = "https://raw.githubusercontent.com/qxkya/aura.solutions/refs/heads/main/Games/TheSurvivalGame/main.luau"
         },
         
         {
