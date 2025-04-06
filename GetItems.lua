@@ -2361,10 +2361,7 @@ return {
     },
     ["Shovel"] = {
         ["itemTier"] = 1,
-        ["itemType"] = {
-            ["1"] = "Shovel",
-            ["2"] = "Tool",
-        },
+        ["itemType"] = "Shovel",
         ["weight"] = 0.1,
         ["id"] = 6,
         ["description"] = "A great tool for farming, or for making pathways!",
